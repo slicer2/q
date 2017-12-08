@@ -1,0 +1,36 @@
+Arrival at 2.3257588888315293 service needed 1.0
+Departure at 3.3257588888315293
+Arrival at 4.0990453300462315 service needed 1.0
+Arrival at 4.781186761973222 service needed 1.0
+Departure at 5.0990453300462315
+Arrival at 5.15573965224049 service needed 1.0
+Arrival at 6.050683089449428 service needed 1.0
+Departure at 6.0990453300462315
+Arrival at 6.6995370722018235 service needed 1.0
+Departure at 7.0990453300462315
+Departure at 8.09904533004623
+Arrival at 8.613968131695177 service needed 1.0
+Arrival at 9.06574143586749 service needed 1.0
+Departure at 9.09904533004623
+Arrival at 9.874995772809118 service needed 1.0
+Departure at 10.09904533004623
+Arrival at 10.969477821407484 service needed 1.0
+Departure at 11.09904533004623
+Departure at 12.09904533004623
+Departure at 13.09904533004623
+Arrival at 13.953470906810809 service needed 1.0
+Arrival at 14.831677284209974 service needed 1.0
+Departure at 14.953470906810809
+Arrival at 15.245502149182792 service needed 1.0
+Departure at 15.953470906810809
+Departure at 16.953470906810807
+Arrival at 17.007733316051265 service needed 1.0
+Departure at 18.007733316051265
+Arrival at 18.211859687424433 service needed 1.0
+Arrival at 18.572306465256588 service needed 1.0
+Departure at 19.211859687424433
+Departure at 20.211859687424433
+customers entered: 16
+average interarrival: 1.1607691540785368
+average occupants: 1.2525174252561153
+average system time: 1.5656467815701445
