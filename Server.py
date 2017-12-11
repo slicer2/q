@@ -6,11 +6,10 @@ Created on Wed Nov  8 23:13:27 2017
 """
 
 class Server:
-    def __init__(self, customerTypes, status = 0):
+    def __init__(self, status = 0):
         """
         status:
         0 - not busy
         1 - busy
         """
-        self.customerTypes = customerTypes
         self.status = 0

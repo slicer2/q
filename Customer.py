@@ -6,7 +6,16 @@ Created on Wed Nov  8 23:15:14 2017
 """
 
 class Customer:
-    def __init__(self, cId, cType, status = 0, residual = 0, arrivalTime = -1, serviceBeginTime = -1, departureTime = -1):
+    def __init__(
+                self,
+                cId,
+                cType,
+                status = 0,
+                residual = 0,
+                arrivalTime = -1,
+                serviceBeginTime = -1,
+                departureTime = -1,
+                serverId = -1):
         """
         status:
         0 - not being served
@@ -19,3 +28,4 @@ class Customer:
         self.arrivalTime = arrivalTime
         self.serviceBeginTime = serviceBeginTime
         self.departureTime = departureTime
+        self.serverId = serverId
